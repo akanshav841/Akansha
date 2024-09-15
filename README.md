@@ -45,6 +45,10 @@
 ### *Backend Development*
 
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<a href="https://expressjs.com/" target="_blank">
+  <img style="margin: 10px" src="https://markovate.com/wp-content/uploads/2022/06/Is-Express.js-Framework-An-Ideal-Choice-For-Developing-Enterprise-Applications_@2x.png" alt="Express.js" height="50" />
+</a>
+
 
 ### *Database*
 

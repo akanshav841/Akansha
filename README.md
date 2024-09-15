@@ -1,11 +1,13 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akanshav841.akanshav841" />
 
- <h1 style="color: black;">Hii there👋, I'm Akansha Verma!✨</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&font+color=black&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akansha+Verma!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from IET, Lucknow</h3>
 
 
-
-
-
-### A passionate Software Developer from IET, Lucknow.
+<img align="right" alt="coding" width="230" src="https://github.com/ananyaa01/ananyaa01/blob/main/Images/Image%202.png">
 
 ---
 
@@ -23,11 +25,21 @@
 - React
 - JavaScript
 
-### 📫 How to reach me:
-- *Email:* akanshav841@gmail.com
-
 ### ⚡ Fun fact:
 - Game of Thrones Night's Watch cloaks are made from IKEA rugs!
+
+ <div align="left"> 
+  <a href="mailto:akanshav841@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/akansha-verma-623a66232/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://leetcode.com/u/akanshav841/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-0077B5?style=for-the-badge&logo=leetcode&logoColor=yellow&color=gray" target="_blank" />
+  </a>
+</div>
+
 
 ---
 
@@ -54,7 +66,6 @@
   <img style="margin: 10px" src="https://markovate.com/wp-content/uploads/2022/06/Is-Express.js-Framework-An-Ideal-Choice-For-Developing-Enterprise-Applications_@2x.png" alt="Express.js" height="50" />
 </a>
 
-
 ### *Database*
 
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
@@ -73,15 +84,6 @@
 
 ---
 
-## 🌐 Connect with me:
-
-- *GitHub:* [akanshav841](https://github.com/akanshav841)
-- *LinkedIn:* [Akansha Verma](https://www.linkedin.com/in/akansha-verma-623a66232/)
-- *LeetCode:* [Profile](https://leetcode.com/u/akanshav841/)
-- *CodeChef:* [Profile](https://www.codechef.com/users/your-username)
-
----
-
 ## 📈 GitHub Stats:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akanshav841&theme=dark&hide_border=false)
@@ -89,3 +91,8 @@
 ![Akansha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akanshav841&show_icons=true&theme=dark&hide_border=false)
 
 ---
+
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!:)">
+</h3>

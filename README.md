@@ -1,11 +1,14 @@
-# Hii there👋, I'm Akansha Verma!
+# Hii there👋, I'm Akansha Verma!✨
 
 ### A passionate Software Developer from IET, Lucknow.
 
 ---
 
 ### 🔭 I’m currently working on:
-- **ChatApp**  
+- **ChatApp**
+
+### 🎖️I’m Seeking to ensure a challenging position in the world of technology enhancing my technical and analytical abilities.
+
 
 ### 🌱 I’m currently learning:
 - Data Structures & Algorithms

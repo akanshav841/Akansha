@@ -65,7 +65,7 @@
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 
 - **GitHub:** [akanshav841](https://github.com/akanshav841)
 - **LinkedIn:** [Akansha Verma](https://www.linkedin.com/in/akansha-verma-623a66232/)

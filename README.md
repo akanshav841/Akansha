@@ -1,4 +1,4 @@
-# Hi there👋, I'm Akansha Verma!
+# Hii there👋, I'm Akansha Verma!
 
 ### A passionate Software Developer from IET, Lucknow.
 

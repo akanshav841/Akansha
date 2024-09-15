@@ -26,7 +26,7 @@
 - JavaScript
 
 ### ⚡ Fun fact:
-- Game of Thrones Night's Watch cloaks are made from IKEA rugs!
+- I once created a chatbot to help me organize my daily tasks—turns out, it became my personal productivity coach!
 
  <div align="left"> 
   <a href="mailto:akanshav841@gmail.com">

@@ -82,6 +82,19 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 
+
+
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ananyaa01/ananyaa01/output/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 ---
 
 ## 📈 GitHub Stats:

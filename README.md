@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akanshav841.akanshav841" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&font+color=black&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akansha+Verma!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&font+color=black&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akansha+Verma!✨;" />
 </h1>
 
 <h3 align="center">A passionate software developer from IET, Lucknow</h3>
